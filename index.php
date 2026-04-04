@@ -3,9 +3,9 @@
 <!-- HERO SECTION -->
 <section class="hero">
     <div class="hero-content">
-        <h1>🔮 Discover Your Destiny</h1>
+        <h1>🔮 Discover Your Destiny with Kareena Astrology</h1>
         <p>Get accurate astrology predictions and guidance for your future</p>
-        <a href="#" class="btn">Get Your Reading</a>
+        <a href="#" class="btn">Get Your Reading </a>
     </div>
 </section>
 
